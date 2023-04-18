@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Must_hardcode_x86_RuntimeIdentifier.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Must_hardcode_x86_RuntimeIdentifier.WinUI">
+
+</maui:MauiWinUIApplication>
